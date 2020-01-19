@@ -6,6 +6,20 @@
 - 新潟
 - プログラミング初心者
 
+# Skills
+使ったことや、興味のある言語、ツール
+- python
+- c
+
+# Works
+- [Github](http://Snowgh.github.io)
+
+# Contact
+-
+
+# History
+- 
+
 ###　見出し
 ## 見出し
 # 見出し
